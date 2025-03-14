@@ -1,6 +1,3 @@
-Here's an improved version of your README that feels more engaging and compelling for users:  
-
----
 
 # 🚀 Turbovent-Grow Your Code, Not Your Headaches
 
@@ -46,28 +43,27 @@ With **TurboVent**, you get:
 
 Clone the repository:  
 ```sh
-git clone https://github.com/yourusername/turbovent.git
-cd turbovent
+npm i -g turbovent
 ```  
 
 Install dependencies using **pnpm**:  
 ```sh
-pnpm install
+turbovent
 ```  
 
 Run the development server:  
 ```sh
-pnpm dev
+cd <projectname>
 ```  
 
 For a production build:  
 ```sh
-pnpm build
+pnpm install
 ```  
 
 Start the production server:  
 ```sh
-pnpm start
+pnpm run dev
 ```  
 
 ---
@@ -102,13 +98,11 @@ We’d love to have your help! Fork the repo, create a branch, and send in a pul
 
 Want to collaborate or have any questions? Hit me up!  
 
-💻 **GitHub:** [PriyanshuTiwari](https://github.com/PriyanshuTiwari)  
-🔗 **LinkedIn:** [Priyanshu Tiwari](https://linkedin.com/in/priyanshutiwari)  
+💻 **GitHub:** [PriyanshuTiwari](https://github.com/priyanshu-tiwariii)  
+🔗 **LinkedIn:** [Priyanshu Tiwari](https://www.linkedin.com/in/priyanshu-tiwarii/)  
 
 ---
 
 ### 🚀 Stop wasting time on setup. Start building with **TurboVent** today!  
 
 ---
-
-This version keeps things **engaging, user-friendly, and conversion-focused** while still providing all the necessary details. Let me know if you need any tweaks! 🚀🔥
