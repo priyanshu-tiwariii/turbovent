@@ -1,6 +1,6 @@
 {
 	"name": "turbovent",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"type": "module",
 	"description": "A modern starter template for building scalable apps with Turborepo, Next.js, Tailwind CSS, and more.",
 	"bin": {
@@ -12,7 +12,7 @@
 	"files": [
 		"bin/",
 		"scripts/",
-		"templates/"
+		"templates/**/*"
 	],
 	"keywords": [
 		"turborepo",
