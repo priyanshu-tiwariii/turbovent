@@ -1,7 +1,6 @@
 # TurboVent : Grow Your Code, Not Your Headaches
 
 ---
-
 ## **What is TurboVent?**
 
 TurboVent is a **pre-configured monorepo starter kit** designed to eliminate the hassle of setting up modern web development stacks. It provides a **ready-to-use, full-stack template** with **Next.js**, **Express.js**, **Tailwind CSS**, **TypeScript**, **TurboRepo**, and **ShadCN UI**—all integrated and optimized for productivity.
@@ -9,6 +8,12 @@ TurboVent is a **pre-configured monorepo starter kit** designed to eliminate the
 With TurboVent, you can skip the tedious setup process and jump straight into building your application. Whether you're a beginner or an experienced developer, TurboVent saves you time and ensures a smooth development experience.
 
 ---
+
+## **Starter Template Preview**
+Here’s what the TurboVent starter template looks like:
+
+![TurboVent Starter Template](https://github.com/priyanshu-tiwariii/turbovent/blob/main/turbovent-starter-image)
+
 
 ## **Why Use TurboVent?**
 
