@@ -1,7 +1,7 @@
 
-# 🚀 Turbovent-Grow Your Code, Not Your Headaches
+# Turbovent-Grow Your Code, Not Your Headaches
 
-## 📖 The Story Behind TurboVent  
+## The Story Behind TurboVent  
 
 Imagine this: You're all set to build an awesome full-stack project, but before you even write a single line of actual code, you're stuck **configuring Tailwind, setting up Express, integrating TypeScript, dealing with TurboRepo, and making sure ShadCN UI works seamlessly.**  
 
@@ -15,7 +15,7 @@ And that's how **TurboVent** was born—a streamlined, fully-configured monorepo
 
 ---
 
-## ❌ The Problem  
+## The Problem  
 
 Setting up a **Next.js + Express.js + Tailwind CSS + TypeScript + TurboRepo + ShadCN UI** stack from scratch comes with challenges:  
 
@@ -25,7 +25,7 @@ Setting up a **Next.js + Express.js + Tailwind CSS + TypeScript + TurboRepo + Sh
 
 ---
 
-## ✅ How TurboVent Makes Your Life Easier  
+## How TurboVent Makes Your Life Easier  
 
 With **TurboVent**, you get:  
 
@@ -35,11 +35,11 @@ With **TurboVent**, you get:
 🛠️ **Full-Stack Power:** Next.js on the frontend, Express.js on the backend—**all in TypeScript.**  
 🎯 **Zero Setup Hassle:** No need to manually configure Tailwind, API routes, or TypeScript.  
 
-### 🚀 Start coding in minutes instead of hours!  
+### Start coding in minutes instead of hours!  
 
 ---
 
-## 🛠 Getting Started  
+## Getting Started  
 
 Clone the repository:  
 ```sh
@@ -68,7 +68,7 @@ pnpm run dev
 
 ---
 
-## 🏗️ Tech Stack  
+## Tech Stack  
 
 TurboVent is powered by the best modern web technologies:  
 
@@ -82,19 +82,19 @@ TurboVent is powered by the best modern web technologies:
 
 ---
 
-## 🤝 Want to Contribute?  
+## Want to Contribute?  
 
 We’d love to have your help! Fork the repo, create a branch, and send in a pull request. Let’s make TurboVent even better together! 💪  
 
 ---
 
-## 📜 License  
+## License  
 
 **MIT License** – Feel free to use and modify TurboVent as you wish!  
 
 ---
 
-## 🌐 Stay Connected  
+## Stay Connected  
 
 Want to collaborate or have any questions? Hit me up!  
 
@@ -103,6 +103,6 @@ Want to collaborate or have any questions? Hit me up!
 
 ---
 
-### 🚀 Stop wasting time on setup. Start building with **TurboVent** today!  
+### Stop wasting time on setup. Start building with **TurboVent** today!  
 
 ---
