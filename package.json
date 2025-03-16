@@ -11,8 +11,7 @@
 	},
 	"files": [
 		"bin/",
-		"scripts/",
-		"templates/**/*"
+		"scripts/"
 	],
 	"keywords": [
 		"turborepo",
